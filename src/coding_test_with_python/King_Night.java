@@ -1,4 +1,4 @@
-package coding_test_book;
+package coding_test_with_python;
 
 import java.util.Scanner;
 

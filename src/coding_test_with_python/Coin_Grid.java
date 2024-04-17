@@ -1,4 +1,4 @@
-package coding_test_book;
+package coding_test_with_python;
 
 public class Coin_Grid {
     public static void main(String[] args) {
